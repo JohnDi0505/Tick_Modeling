@@ -17,7 +17,7 @@ Tick Data --> tick sampling trip (The sampling approach is upcoming.)(Scheduled 
 Outline:
 Remote Sensing Image Processing (ENVI): landcover classification --> remove urbanized area from study area (done);image processing --> surface temperature raster (done); NDVI image --> vegetation raster (done)
 
-Data Processing (Python: arcpy, numpy, os): raster input/output and reprojection & conversion between raster and numpy array including value extraction (in progress)
+Data Processing (Python: arcpy, numpy, os): raster input/output and reprojection & conversion between raster and numpy array including value extraction (in process)
 
 Linear Regression Model (ready)
 
