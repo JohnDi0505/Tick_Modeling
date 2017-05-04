@@ -13,6 +13,10 @@ Google Earth KML --> sampling area
 Tick Data --> tick sampling trip (The sampling approach is upcoming.)(Scheduled on May 5th, the trip will be scheduled next week if the weather is bad.)
 
 
+Raster Values Extraction
+In ENVI: Extract Study Area with ROI--> ENVItool_box --> Raster Management --> IDL --> Export to IDL Variables --> Variable Name
+In IDL: Variable Name --> WRITEU(Write Raster to Binary) / WRITE_CSV / PRINT/PRINTF
+
 
 Outline:
 Remote Sensing Image Processing (ENVI): landcover classification --> remove urbanized area from study area (done);image processing --> surface temperature raster (done); NDVI image --> vegetation raster (done)
