@@ -23,7 +23,7 @@ Remote Sensing Image Processing (ENVI): landcover classification --> remove urba
 
 Data Processing (Python: arcpy, numpy, os): raster input/output and reprojection & conversion between raster and numpy array including value extraction (done)
 
-Linear Regression Model (ready)
+Linear Regression Model (done)
 
 Database Managing (Python: psycopg2 & SQL database): table creation and management; (not included in this project)
 
