@@ -2,7 +2,7 @@
 2017 Spring Final Project
 
 
-Acknowledgement: Qiu Lab, GTECH 712, GTECH 734, Remote Sensing Data Source, Lidar Data Source
+Acknowledgement: Qiu Lab, GTECH 712, GTECH 734
 
 
 
