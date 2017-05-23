@@ -10,7 +10,7 @@ Required Data:
 Landsat-8 Images --> landcover classification; temperature; vegetation
 Lidar Point Cloud --> DSM --> solar radiation
 Google Earth KML --> sampling area
-Tick Data --> tick sampling trip (The sampling approach is complete (109 ticks are sampled and coordinates of sampling sites are recorded).)(Scheduled on May 5th, the trip will be scheduled next week if the weather is bad.)
+Tick Data --> tick sampling trip (The sampling approach is completed (109 ticks are sampled and coordinates of sampling sites are recorded).)(Scheduled on May 5th, the trip will be scheduled next week if the weather is bad. The tick sampling was completed on May 12th 2017)
 
 
 Raster Values Extraction
@@ -25,6 +25,6 @@ Data Processing (Python: arcpy, numpy, os): raster input/output and reprojection
 
 Linear Regression Model (ready)
 
-Database Managing (Python: psycopg2 & SQL database): table creation and management (not started); data updating and retrieving (ready)
+Database Managing (Python: psycopg2 & SQL database): table creation and management; (not included in this project)
 
 Web Service (Python: cherrypy & HTML, Javascript: Jquery, Leaflet) (doing)
