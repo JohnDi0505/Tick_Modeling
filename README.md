@@ -1,4 +1,4 @@
-# Tick_Modeling_in_LongIsland
+# Tick Sampling Report in Caumsett State Park
 2017 Spring Final Project
 
 
