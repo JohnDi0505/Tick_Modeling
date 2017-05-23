@@ -10,7 +10,7 @@ Required Data:
 Landsat-8 Images --> landcover classification; temperature; vegetation
 Lidar Point Cloud --> DSM --> solar radiation
 Google Earth KML --> sampling area
-Tick Data --> tick sampling trip (The sampling approach is upcoming.)(Scheduled on May 5th, the trip will be scheduled next week if the weather is bad.)
+Tick Data --> tick sampling trip (The sampling approach is complete (109 ticks are sampled and coordinates of sampling sites are recorded).)(Scheduled on May 5th, the trip will be scheduled next week if the weather is bad.)
 
 
 Raster Values Extraction
