@@ -1,0 +1,67 @@
+Confusion Matrix: C:\Users\cdi\Downloads\outcomes\supervised_classification.dat  
+  
+Overall Accuracy = (927/938)  98.8273%  
+Kappa Coefficient = 0.9852  
+  
+                  Ground Truth (Pixels)  
+    Class             sand         soil        water   vegetation     concrete  
+ Unclassified            2            0            0            0            0  
+         sand          216            0            0            0            0  
+         soil            0          166            0            0            0  
+        water            0            0          196            0            0  
+   vegetation            0            0            0          225            0  
+     concrete            0            0            9            0          124  
+        Total          218          166          205          225          124  
+  
+  
+                  Ground Truth (Pixels)  
+    Class            Total  
+ Unclassified            2  
+         sand          216  
+         soil          166  
+        water          196  
+   vegetation          225  
+     concrete          133  
+        Total          938  
+  
+  
+                 Ground Truth (Percent)  
+    Class             sand         soil        water   vegetation     concrete  
+ Unclassified         0.92         0.00         0.00         0.00         0.00  
+         sand        99.08         0.00         0.00         0.00         0.00  
+         soil         0.00       100.00         0.00         0.00         0.00  
+        water         0.00         0.00        95.61         0.00         0.00  
+   vegetation         0.00         0.00         0.00       100.00         0.00  
+     concrete         0.00         0.00         4.39         0.00       100.00  
+        Total       100.00       100.00       100.00       100.00       100.00  
+  
+  
+                 Ground Truth (Percent)  
+    Class            Total  
+ Unclassified         0.21  
+         sand        23.03  
+         soil        17.70  
+        water        20.90  
+   vegetation        23.99  
+     concrete        14.18  
+        Total       100.00  
+  
+  
+  
+        Class   Commission     Omission          Commission            Omission  
+                 (Percent)    (Percent)            (Pixels)            (Pixels)  
+         sand         0.00         0.92               0/216               2/218  
+         soil         0.00         0.00               0/166               0/166  
+        water         0.00         4.39               0/196               9/205  
+   vegetation         0.00         0.00               0/225               0/225  
+     concrete         6.77         0.00               9/133               0/124  
+  
+  
+        Class   Prod. Acc.    User Acc.          Prod. Acc.           User Acc.  
+                 (Percent)    (Percent)            (Pixels)            (Pixels)  
+         sand        99.08       100.00             216/218             216/216  
+         soil       100.00       100.00             166/166             166/166  
+        water        95.61       100.00             196/205             196/196  
+   vegetation       100.00       100.00             225/225             225/225  
+     concrete       100.00        93.23             124/124             124/133  
+
