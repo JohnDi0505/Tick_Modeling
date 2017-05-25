@@ -2,10 +2,6 @@
 2017 Spring Final Project
 
 
-Acknowledgement: Qiu Lab, GTECH 712, GTECH 734
-
-
-
 Required Data:
 Landsat-8 Images --> landcover classification; temperature; vegetation
 Lidar Point Cloud --> DSM --> solar radiation
@@ -25,6 +21,8 @@ Data Processing (Python: arcpy, numpy, os): raster input/output and reprojection
 
 Linear Regression Model (done)
 
+
+Web services:
 Database Managing (Python: psycopg2 & SQL database): table creation and management; (not included in this project)
 
-Web Service (Python: cherrypy & HTML, Javascript: Jquery, Leaflet) (doing)
+Web Service (Python: cherrypy & HTML, Javascript: Jquery, Leaflet) (not included in this project)
