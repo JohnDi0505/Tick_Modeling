@@ -1,0 +1,46 @@
+<!DOCTYPE html >
+<html>
+   <head>
+       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCbyWK6EEd0rhtKsgmp-Y1vC-o6KCBMHnQ&callback=initMap"
+    async defer></script>
+       
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+              
+       <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+       
+       <link href="/static/css/stylesheet.css" rel="stylesheet">
+       
+       <script src="/static/js/index.js"></script>
+       
+      <title>Sample</title>
+       
+   </head>
+	
+   <body class = "index">
+      <div id = "header">
+         <h2>Caumsett State Park Tick Sampling Report</h2>
+      </div>
+        <table>
+            <tr>
+                <td>
+                    <div id="map"></div>
+                    <div id="info-box"></div>
+                </td>
+                <td>
+                    <table id="upper_right" class="right">
+                        <tr>
+                            <td>
+                                <div style="overflow-x:auto;" id="dt"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div id="container"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+       </table>
+   </body>
+</html>
